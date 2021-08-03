@@ -1,0 +1,13 @@
+{
+  "name": "file-categorizer",
+  "version": "1.0.0",
+  "description": "It categorizes your files 📁 based on its extension type.",
+  "bin": {
+    "fcat": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirubanand R",
+  "license": "ISC"
+}
